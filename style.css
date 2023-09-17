@@ -1,0 +1,29 @@
+.heading{
+    background-color: rgb(210, 147, 147);
+    color: #ffffff;
+    width: 80%;
+    font-size: 30px;
+}
+
+
+body{
+    color: #ffffff;
+    background: linear-gradient(#cd9b9b, #8489bd);
+}
+
+.nombre-objetos,#resultado_nombre,#resultado_precision{
+    color: #bb0319;
+    font-size: 22px;
+}
+
+#camara,#result{
+    border: 2px dashed rgb(126, 53, 82);
+    width: 350px;
+    height: 350px;
+}
+
+#button1{
+    background-color: #cd9b9b;
+    border-radius: 5px;
+    width: 10%;
+}
